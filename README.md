@@ -1,16 +1,16 @@
 
-// ============== POSTMAN SETUP INSTRUCTIONS ==============
+## ============== POSTMAN SETUP INSTRUCTIONS ==============
 
-// 1. INSTALLATION:
-//    npm init -y
-//    npm install express express-session bcrypt cors
+## 1. INSTALLATION:
+--    npm init -y
+--    npm install express express-session bcrypt cors
 
-// 2. RUN SERVER:
-//    node server.js
+## 2. RUN SERVER:
+--    node server.js
 
-// 3. POSTMAN CONFIGURATION:
-//    - Enable "Send cookies" in Postman settings
-//    - Or manually add Cookie header after login
+## 3. POSTMAN CONFIGURATION:
+-- Enable "Send cookies" in Postman settings
+-- Or manually add Cookie header after login
 
 // 4. TEST FLOW:
 //    Step 1: POST /api/login
