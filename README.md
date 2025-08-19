@@ -1,5 +1,5 @@
 
-## ============== POSTMAN SETUP INSTRUCTIONS ==============
+## ============== POSTMAN SETUP INSTRUCTIONS ============
 ## Step 1 : Server installation
 ## 1. INSTALLATION:
 - npm init -y
