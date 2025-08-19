@@ -1,6 +1,6 @@
 
 ## ============== POSTMAN SETUP INSTRUCTIONS ==============
-
+## Step 1 : Server installation
 ## 1. INSTALLATION:
 - npm init -y
 - npm install express express-session bcrypt cors
